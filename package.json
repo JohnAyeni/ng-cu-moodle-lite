@@ -1,7 +1,19 @@
 {
   "name": "ng-cu-moodle-lite",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A lite version of Covenant University's E-Learning Platform (Moodle)",
   "license": "MIT",
+  "keywords": ["moodle", "university", "e-learning", "open source"],
+  "authors": [
+    {
+      "name": "Covenant University Developers' Community",
+      "email": "cudevgroup@gmail.com"
+    },
+    {
+      "name": "Emmanuel Awotunde",
+      "email": "awotunde.emmanuel1@gmail.com"
+    }
+   ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
