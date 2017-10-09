@@ -6,10 +6,6 @@
   "keywords": ["moodle", "university", "e-learning", "open source"],
   "authors": [
     {
-      "name": "Covenant University Developers' Community",
-      "email": "cudevgroup@gmail.com"
-    },
-    {
       "name": "Emmanuel Awotunde",
       "email": "awotunde.emmanuel1@gmail.com"
     }
